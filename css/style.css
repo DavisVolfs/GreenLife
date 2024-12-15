@@ -290,9 +290,13 @@ header a:hover {
 }
 
 header .sign-up-btn {
-    background-color: var(--primary-color);
-    padding: 5px 20px;
-    border-radius: 5px;
+  background-color:var(--primary-color);
+  color:var(--background-color-light);
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
 }
 button:hover, .sign-up-btn:hover {
   background-color:var(--color-green); 
