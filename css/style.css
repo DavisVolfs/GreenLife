@@ -297,7 +297,7 @@ header .sign-up-btn {
 button:hover, .sign-up-btn:hover {
   background-color:var(--color-green); 
   transform: scale(1.05);
-  transition: background-color 0.3s, transform 0.3s; 
+  transition: background-color 0.3s, transform 0.3s;
 }
 
 
